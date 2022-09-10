@@ -1,4 +1,4 @@
-# Mitigating_the_bullwhip_effect_using_ML
+# Predicting.Bullwhip.Effect.Using.ML--BEST_PAPER_AWARD
 
 ###
 
