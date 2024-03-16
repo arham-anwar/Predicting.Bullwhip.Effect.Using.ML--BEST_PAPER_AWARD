@@ -55,7 +55,7 @@ The proposed machine learning model has nine inputs namely Cost, Order, OUT, SS,
 
 ![image](https://user-images.githubusercontent.com/64707681/189498866-8730667c-d2bf-4bb2-a544-0354f0db5f34.png)
 
-![image](https://user-images.githubusercontent.com/64707681/189498877-4e5e67ab-d26a-4e27-a4f7-c8ef0802367d.png)
+
 
 -Accuracy of MLP: The given dataset had a small resolution of upto 2 decimal places. Due to this small resolution, the algorithm is unable to differentiate and predict the bullwhip effect with a high degree of accuracy.
 -Accuracy of KNN: Since the projection of the 9 input variables were plotted against the numerical value of bullwhip. The machine found the most accurate result at K=5 or 5 clusters.  The algorithm dealt with multi collinearity easily
